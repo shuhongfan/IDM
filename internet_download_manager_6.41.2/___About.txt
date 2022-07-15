@@ -1,0 +1,63 @@
+﻿
+	ВНИМАНИЕ!!! Поскольку (в отличии от оригинальной версии) в браузеры программа интегрируется 
+                    ещё на стадии установки, возможно ЛОЖНОЕ срабатывание антивирусов. 
+
+	Особенности репака:
+
+  1. Не требует регистрации (патч pawel97 + keygen ADMIN@CRACK)
+  2. Мультиязычный интерфейс (включая русский)
+  3. Опционная установка 35 дополнительных панелей инструментов
+  4. Опционная установка IDM Backup Manager
+  5. Выбор при установке некоторых опций программы:
+     - Запускать IDM при загрузке компьютера
+     - Запускать модуль контроля IE-браузеров
+     - Показывать категории
+  6. Небольшая правка меню и диалогов программы 
+  7. Возможность установки модификаций Glyfz 2016, iOS Line, Windows 10 
+     (помимо дополнительной панели инструментов, изменены значки категорий, значки диалогов и основной значок программы, см. скрины)
+  8. Подхватывает настройки из внешнего файла settings.reg 
+  9. Возможность подхвата и автокопирования пользовательских панелей инструментов из папки toolbars, если таковая находится рядом
+     во время установки, а также возможен автозапуск файла toolbars.exe, который может содержать пользовательские панели в sfx-архиве.
+ 10. Помимо установки, предусмотрен режим "Обновление", в котором происходит исключительно распаковка файлов новой версии,
+     БЕЗ каких-либо дополнительных действий установщика, изменения пользовательских настроек, записей в реестр (за исключением
+     нескольких ключей с номером обновляемой версии), установки дополнительных компонентов.
+
+
+    "Тихая" установка с ключами /SILENT или /VERYSILENT (или файлом "Silent Install.cmd")
+     Создание пользовательского сценария установки с выбором настроек и компонентов ключом /SAVEINF="setup.ini" 
+      (или файлом "Create installation script.cmd")
+     "Тихая" установка программы по ранее созданному сценарию установки ключом /SILENT /LOADINF="setup.ini" 
+      (или файлом "Silent scripted installation.cmd")
+     Для "тихого" обновления программы дополнительный ключ UPDATE=1 (или файлом "Silent Update.cmd")
+
+********************************************************************************************************************************************
+
+	ATTENTION!!! It's possible that anti-viruses may be false positives because (unlike the original version) 
+                     the program integrates into browsers during the installation phase. 
+
+	Features repack:
+
+  1. Does not require registration (patch pawel97 + keygen ADMIN@CRACK )
+  2. Multilingual interface (including Russian)
+  3. Optional installation of 35 additional toolbars
+  4. Optional installation of IDM Backup Manager
+  5. Selects when installing some program options:
+     - Run IDM at computer startup
+     - Run IE-browser control module
+     - Show categories
+  6. Minor editing of the program menu and dialogs 
+  7. Ability to install Glyfz 2016, iOS Line, Windows 10 modifications 
+     (in addition to the additional toolbar, the category icons, dialog icons, and the main program icon have been changed, see screenshots)
+  8. The ability to import settings from settings.reg
+  9. Ability to pick up and auto-copy custom toolbars from the toolbars folder (if there is one nearby during installation)
+     and it is also possible to autorun the toolbars.exe file (which can contain custom panels in the sfx archive).
+ 10. In addition to installation, there is an "Update mode", in which files of the new version are unpacked exclusively,
+     WITHOUT any additional installer actions, changes to user settings, registry entries (except for
+     multiple keys with the number of the version to be updated), installing additional components.
+
+
+    "Silent" installation with the /SILENT or /VERYSILENT switches (or the Silent Install.cmd file)
+     If need to configure additional installation options use script generating (file __Create installation script.cmd)
+    "Silent" program installation on the previously generated script with the keys /SILENT /LOADINF="setup.ini"
+     (or file "_Silent scripted installation.cmd")
+    For "silent" program update additional key UPDATE=1 (or file "Silent Update.cmd")
